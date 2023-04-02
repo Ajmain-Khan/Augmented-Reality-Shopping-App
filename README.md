@@ -8,8 +8,9 @@ My vision is that the future of online retail websites will heavily leverage AR 
 
 
 ### Demo:
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/71261373/229380605-57e05986-3a04-4b54-aaef-313b0b5598dc.mp4" width=400/>
+<div/>
 
-
-
-##### This application was developed for a hackathon competition, in which my team won first place.
+###### *This application was developed for a hackathon competition, in which my team won first place.*
 
